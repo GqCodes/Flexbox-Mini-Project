@@ -1,6 +1,6 @@
-## Flexbox Crash Course
+## Flexbox Crash Course (Traversy Media)
 
-Used the outline of the tutorial to create the project on my own prior to looking at the completed code. 
+I watched the tutorial start to finish without copying the code. Then used the project as a mock up template and recreated it on my own to match the completed project.
 
 Technologies used:
 HTML
