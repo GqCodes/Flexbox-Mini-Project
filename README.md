@@ -6,3 +6,6 @@ Technologies used:
 HTML
 CSS
 Flexbox
+
+![](/Final%20Images/responsive.png)
+![](/Final%20Images/fullscreen.png)
